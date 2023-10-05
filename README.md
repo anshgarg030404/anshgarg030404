@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" alt="coding" align="right" width="400px"/>
+<img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" alt="coding" align="right" width="350px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshgarg030404&label=Profile%20views&color=0e75b6&style=flat" alt="anshgarg030404" /> </p>
 
