@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshgarg030404&label=Profile%20views&color=0e75b6&style=flat" alt="anshgarg030404" /> </p>
 
-- 🔭 I’m currently currently studying **Automation and Robotics**
+- 🔭 I’m currently studying **Automation and Robotics**
 
 - 🌱 I’m currently learning **Web Development**
 
